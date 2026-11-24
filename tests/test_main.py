@@ -44,3 +44,5 @@ def test_main_startup_and_shutdown(monkeypatch):
     mock_input_manager.start.assert_called_once()
     mock_input_manager.stop.assert_called_once()
     mock_event_bus.stop.assert_called_once()
+
+
