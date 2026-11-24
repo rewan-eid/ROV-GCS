@@ -1,0 +1,6 @@
+{
+    "input_rate": 50,
+    "deadzone": 0.1,
+    "window_title": "ROV Ground Control Station",
+    "logging_level": "INFO"
+}
